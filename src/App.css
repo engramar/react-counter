@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.App button {
+  align-self: center;
+  width: 5em;
+  padding: 1.5em;
+  font-size: 1em;
+  border: 0px;
+  border-radius: 25px;
+  color: rgb(234, 228, 240);
+  background-color: rgb(78, 104, 102);
+  margin-top: 2em;
+}
